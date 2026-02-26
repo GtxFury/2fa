@@ -6,7 +6,7 @@ workers_dev = true
 # KV 命名空间（生产环境）
 [[kv_namespaces]]
 binding = "SECRETS_KV"
-id = "a98735f310c24a9786cfd388241258e7"
+id = "aac1789db51b4e2091625ae72432270b"
 preview_id = "b6c4090a117c46ce94cf0bd2a88ddedb"
 
 # 环境变量 (Secrets)
